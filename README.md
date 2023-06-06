@@ -4,12 +4,12 @@ In this section, we cover more advanced prompting engineering techniques that al
 
 Through this task, we are going to try different prompt techniques to enhance the quality of the output.
 
-In this task, we covered these prompt techniques:
-Zero-Shot Prompting
-Few-Shot Prompting
-Chain-of-Thought Prompting
-Self-Consistency
-Generated Knowledge Prompting
+In this task, we covered these prompt techniques:<br/>
+Zero-Shot Prompting<br/>
+Few-Shot Prompting<br/>
+Chain-of-Thought Prompting<br/>
+Self-Consistency<br/>
+Generated Knowledge Prompting<br/>
 
 ## References
   https://www.promptingguide.ai/techniques
